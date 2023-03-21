@@ -1,5 +1,13 @@
 # ember-headless-form
 
+## 1.0.0-beta.2
+
+### Patch Changes
+
+- [#80](https://github.com/CrowdStrike/ember-headless-form/pull/80) [`241ccdc`](https://github.com/CrowdStrike/ember-headless-form/commit/241ccdcedaf52d8af8b3f366b61d3055e9e38fc9) Thanks [@simonihmig](https://github.com/simonihmig)! - Add `@ignoreNativeValidation` for opting out of native validation
+
+- [#76](https://github.com/CrowdStrike/ember-headless-form/pull/76) [`544509b`](https://github.com/CrowdStrike/ember-headless-form/commit/544509b256fb171e62cc74b2cba2b2f32faa6f35) Thanks [@simonihmig](https://github.com/simonihmig)! - Refactor radio group for better a11y
+
 ## 1.0.0-beta.1
 
 ### Patch Changes
